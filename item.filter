@@ -1304,7 +1304,7 @@ ItemDisplay[NMAG !RW ILVL>30 9ha]:
 ItemDisplay[NMAG !RW ILVL>60 7ha]:
 ItemDisplay[NMAG !RW ILVL>14 axe]:
 ItemDisplay[NMAG !RW ILVL>30 9ax]:
-ItemDisplay[NMAG !RW ILVL>60 7ax]:
+ItemDisplay[NMAG !RW ILVL>60 7ax]: ½NAME%
 ItemDisplay[NMAG !RW ILVL>14 2ax]:
 ItemDisplay[NMAG !RW ILVL>30 92a]:
 ItemDisplay[NMAG !RW ILVL>60 72a]:
@@ -1313,9 +1313,10 @@ ItemDisplay[NMAG !RW ILVL>30 9mp]:
 ItemDisplay[NMAG !RW ILVL>60 7mp]:
 ItemDisplay[NMAG !RW ILVL>14 wax]:
 ItemDisplay[NMAG !RW ILVL>30 9wa]:
-ItemDisplay[NMAG !RW ILVL>60 SOCK=1 7wa]:
-ItemDisplay[NMAG !RW ILVL>60 SOCK=2 7wa]:
-ItemDisplay[NMAG !RW ILVL>60 SOCK=3 7wa]:
+ItemDisplay[NMAG !RW ILVL>60 SOCK=0 7wa]: %NAME%
+ItemDisplay[NMAG !RW ILVL>60 SOCK=1 7wa]: %NAME%
+ItemDisplay[NMAG !RW ILVL>60 SOCK=2 7wa]: %NAME%
+ItemDisplay[NMAG !RW ILVL>60 SOCK=3 7wa]: %NAME%
 //
 ItemDisplay[NMAG !RW ILVL>14 lax]:
 ItemDisplay[NMAG !RW ILVL>30 9la]:
