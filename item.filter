@@ -936,7 +936,7 @@ ItemDisplay[fla NMAG !ETH SOCK=4]: %DGREEN%%NAME% %GRAY%[%SOCKETS%]
 
 //5os Phase Blade, Zerker Axe = Grief
 ItemDisplay[7cr NMAG SOCK=5]: %DGREEN%%NAME% %YELLOW%[%SOCKETS%]
-ItemDisplay[NMAG !ETH SOCK=5]: %DGREEN%%NAME% %YELLOW%[%SOCKETS%]
+ItemDisplay[7wa NMAG !ETH SOCK=5]: %DGREEN%%NAME% %YELLOW%[%SOCKETS%]
 ItemDisplay[7wa NMAG ETH SOCK=5]: %DGREEN%ETH %NAME% %YELLOW%[%SOCKETS%]
 
 //Silence
@@ -1056,7 +1056,6 @@ ItemDisplay[7wa !ETH NMAG SOCK=0]: %DGREEN% %NAME% %YELLOW%[%SOCKETS%]
 ItemDisplay[7wa !ETH NMAG SOCK=3]: %DGREEN% %NAME% %YELLOW%[%SOCKETS%]
 ItemDisplay[7ax !ETH NMAG SOCK=0]: %DGREEN% %NAME% %YELLOW%[%SOCKETS%]
 ItemDisplay[7ax !ETH NMAG SOCK=3]: %DGREEN% %NAME% %YELLOW%[%SOCKETS%]
-
 
 //Fortitude Weapon
 ItemDisplay[72a ETH NMAG SOCK=4]: %DGREEN%ETH %NAME% %YELLOW%[%SOCKETS%]
@@ -1308,7 +1307,7 @@ ItemDisplay[NMAG !RW ILVL>30 9ha]:
 ItemDisplay[NMAG !RW ILVL>60 7ha]:
 ItemDisplay[NMAG !RW ILVL>14 axe]:
 ItemDisplay[NMAG !RW ILVL>30 9ax]:
-ItemDisplay[NMAG !RW ILVL>60 7ax]: 
+ItemDisplay[NMAG !RW ILVL>60 7ax]:
 ItemDisplay[NMAG !RW ILVL>14 2ax]:
 ItemDisplay[NMAG !RW ILVL>30 92a]:
 ItemDisplay[NMAG !RW ILVL>60 72a]:
@@ -1317,9 +1316,9 @@ ItemDisplay[NMAG !RW ILVL>30 9mp]:
 ItemDisplay[NMAG !RW ILVL>60 7mp]:
 ItemDisplay[NMAG !RW ILVL>14 wax]:
 ItemDisplay[NMAG !RW ILVL>30 9wa]:
-ItemDisplay[NMAG !RW ILVL>60 SOCK=1 7wa]: 
-ItemDisplay[NMAG !RW ILVL>60 SOCK=2 7wa]: 
-ItemDisplay[NMAG !RW ILVL>60 SOCK=3 7wa]: 
+ItemDisplay[NMAG !RW ILVL>60 SOCK=1 7wa]:
+ItemDisplay[NMAG !RW ILVL>60 SOCK=2 7wa]:
+ItemDisplay[NMAG !RW ILVL>60 SOCK=3 7wa]:
 //
 ItemDisplay[NMAG !RW ILVL>14 lax]:
 ItemDisplay[NMAG !RW ILVL>30 9la]:
